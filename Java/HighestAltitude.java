@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class HighestAltitude {
     public int largestAltitude(int[] gain) {
         int n = gain.length;
